@@ -2,4 +2,4 @@
 This is Jerry's Java Image Processing Filters Jar or Src
 
 
-for more info - http://www.jhlabs.com/ip/filters/index.html
+for more info - [JhLabs Filters Website](http://www.jhlabs.com/ip/filters/index.html)
